@@ -9,8 +9,5 @@ Options:
 * Option 4 for Grayscale effect.  
 Then the code work on that specific option and produces the manipulated Image.  
 Few Sample Images are:  
-1. ![](Images/Redimg.jpg)
-2. ![](Images/Greenimg.jpg) 
-3. ![](Images/Blueimg.jpg) 
-4. ![](Images/Greyimg.jpg) 
+![](Images/Redimg.jpg) ![](Images/Greenimg.jpg) ![](Images/Blueimg.jpg) ![](Images/Greyimg.jpg)  
 **The image produced after manipulation is saved in the same directory your terminal is compiling the code.**
