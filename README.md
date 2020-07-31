@@ -1,5 +1,6 @@
 # py-Image-Converter
-###!!!A simple image manipulation code using Python!!!
+##!!!A simple image manipulation code using Python!!!
+
 This python code take an image as Input using PIP and read the RGB value of each pixel and create an array of RGB values using numpy.
 
 After reading and storing the values of RGB in array, it shows some option from which a user can choose as per their requirement. 
